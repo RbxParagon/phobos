@@ -1,4 +1,7 @@
-phobos v1.4.7 (most stuff has been removed)
-\nRaknet stuff - RbxParagon
-\nServer stuff - Cadabra
-\nMethod idea & bot - TheChosen_1
+# Phobos
+> Most stuff has been removed.
+
+## Credits
+- **RakNet stuff:** RbxParagon  
+- **Server stuff:** Cadabra  
+- **Method idea & bot:** TheChosen_1
