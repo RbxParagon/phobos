@@ -1,5 +1,5 @@
 # Phobos
-> Most stuff has been removed.
+> Most stuff has been removed
 
 ## Credits
 - **RakNet stuff:** RbxParagon  
