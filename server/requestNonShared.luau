@@ -1,0 +1,3 @@
+-- // Figure this out yourself I am NOT leaking ts 
+-- // Originally made by Cadabra but he leaked it to me 🥹
+-- // Hint : NetworkReplicator class has some funny boundFunctions (start by finding classDescriptor (current offset is 0xF8 for version-f5a60436d48947d3))
