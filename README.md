@@ -2,6 +2,6 @@
 > Most stuff has been removed
 
 ## Credits
-- **RakNet stuff:** RbxParagon  
+- **RakNet/Memory stuff:** RbxParagon  
 - **Server stuff:** Cadabra  
-- **Method idea & bot:** TheChosen_1
+- **Idea & Bot:** TheChosen_1
